@@ -11,7 +11,11 @@
 
 - 📫 How to reach me **mitko.alekseev@gmail.com**
 
+
+![giphyy](https://user-images.githubusercontent.com/96549522/196566566-1889fb41-80ad-4160-9e34-a06553e2110d.gif)
+
 ![giphy](https://user-images.githubusercontent.com/96549522/196566407-c7db65eb-d9b0-4503-ad8f-964422d5a421.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
