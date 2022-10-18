@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning Java programing**
 
-- 🌱 I’m currently learning **at SoftUni**
+- 🌱 I’m currently learning **at SoftUni, Programing basics**
 
 - 📫 How to reach me **mitko.alekseev@gmail.com**
 
