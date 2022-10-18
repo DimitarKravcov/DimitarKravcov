@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mitko.alekseev@gmail.com**
 
+![giphy](https://user-images.githubusercontent.com/96549522/196566407-c7db65eb-d9b0-4503-ad8f-964422d5a421.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mitko_alekseev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mitko_alekseev" height="30" width="40" /></a>
@@ -22,5 +24,3 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitarkravcov&show_icons=true&locale=en&layout=compact" alt="dimitarkravcov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitarkravcov&show_icons=true&locale=en" alt="dimitarkravcov" /></p>
-
-![giphy](https://user-images.githubusercontent.com/96549522/196566407-c7db65eb-d9b0-4503-ad8f-964422d5a421.gif)
