@@ -22,4 +22,5 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimitarkravcov&show_icons=true&locale=en&layout=compact" alt="dimitarkravcov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimitarkravcov&show_icons=true&locale=en" alt="dimitarkravcov" /></p>
-https://media3.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif?cid=ecf05e47vbi5nirdue15xfqd2xkooc3rfy8d9xyoak4ahdv7&rid=giphy.gif&ct=g
+
+![giphy](https://user-images.githubusercontent.com/96549522/196566407-c7db65eb-d9b0-4503-ad8f-964422d5a421.gif)
