@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **at SoftUni, Programing basics**
 - 📫 How to reach me **mitko.alekseev@gmail.com**
-<div id = "header" align = "right">
+<div id = "header" align = "center">
  <img src = "![giphyy](https://user-images.githubusercontent.com/96549522/196566566-1889fb41-80ad-4160-9e34-a06553e2110d.gif)" width = "100">
  </div>
 
