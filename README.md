@@ -26,9 +26,6 @@
 
 <p align="left"> <a href="https://twitter.com/mitko_alekseev" target="blank"><img src="https://img.shields.io/twitter/follow/mitko_alekseev?logo=twitter&style=for-the-badge" alt="mitko_alekseev" /></a> </p>
 
-- 🔭 I’m currently working on **learning Java programing**
-
-- 🌱 I’m currently learning **at SoftUni, Programing basics**
 - 📫 How to reach me **mitko.alekseev@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
